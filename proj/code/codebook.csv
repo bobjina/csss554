@@ -1,0 +1,4 @@
+id,data,shp
+1,C:/Users/pyliu/Desktop/data/dhs/UGA_MACRO_DHS_2000_2001_4762.csv,C:/Users/pyliu/Desktop/UGA/2000_2001/UGA_DHS4_2000_2001_GPS_Y2011M01D05.SHP
+2,C:/Users/pyliu/Desktop/data/dhs/UGA_MACRO_DHS_2006_2006_4768.csv,C:/Users/pyliu/Desktop/UGA/2006/UGA_DHS5_2006_GPS_Y2011M01D05.SHP
+3,C:/Users/pyliu/Desktop/data/dhs/UGA_MACRO_DHS_2011_2011_4774.csv,C:/Users/pyliu/Desktop/UGA/2011/UGA_DHS6_2011_GPS_Y2012M10D11.SHP
